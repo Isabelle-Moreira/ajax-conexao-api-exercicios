@@ -1,0 +1,15 @@
+#principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 597px;
+    height: 509px;
+    border-radius: 30px;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    box-shadow: 10px 5px 5px rgb(100, 99, 99);
+    object-fit: contain;
+}
